@@ -1,2 +1,2 @@
 # programbuku-v3
-stress dikit ga ngaruh
+database bikin saya jungkir balik
